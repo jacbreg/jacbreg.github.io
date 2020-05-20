@@ -1,4 +1,4 @@
-## [Home](https://github.com/jacbreg/jacbreg.github.io/README.md) [Research](https://github.com/jacbreg/jacbreg.github.io/research.md)
+## [Home](https://github.com/jacbreg/jacbreg.github.io/README.md)  -  [Research](https://github.com/jacbreg/jacbreg.github.io/research.md)
 
 # Welcome to my website!
 
