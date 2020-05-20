@@ -1,4 +1,10 @@
-## [Home](https://github.com/jacbreg/jacbreg.github.io/README.md)  -  [Research](https://github.com/jacbreg/jacbreg.github.io/research.md)
+---
+layout: page
+title: Homepage
+permalink: /Home/
+---
+
+## [Home](https://github.com/jacbreg/jacbreg.github.io/Home)  -  [Research](https://github.com/jacbreg/jacbreg.github.io/Research)
 
 # Welcome to my website!
 
