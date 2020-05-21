@@ -1,9 +1,3 @@
----
-layout: page
-title: Homepage
-permalink: /home/
----
-
 ## [Home](./README.html)  -  [Research](./research.html)
 
 # Welcome to my website!
