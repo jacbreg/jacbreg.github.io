@@ -1,6 +1,6 @@
 # [Home](./index.html)  -  [Research](./research.html) - [Bio](./bio.html)
 
-# Welcome to my website!
+### Welcome to my website!
 
 I am a PhD candidate at the **Toulouse School of Economics**.
 
