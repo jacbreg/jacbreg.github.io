@@ -1,4 +1,10 @@
-## [Home](./README.html)  -  [Research](./research.html)
+---
+layout: default
+---
+
+## [Home](./README.html)  -  
+
+[Research](./research.html)
 
 # Welcome to my website!
 
