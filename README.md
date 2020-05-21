@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Homepage
-permalink: /Home/
+permalink: /home/
 ---
 
-## [Home](https://jacbreg.github.io/Home)  -  [Research](https://jacbreg.github.io/Research)
+## [Home](https://jacbreg.github.io/home)  -  [Research](https://jacbreg.github.io/research)
 
 # Welcome to my website!
 
