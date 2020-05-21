@@ -21,16 +21,17 @@
 title: Jacopo Bregolin
 email: jacopo.bregolin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
+bregolin.jacopo@tse-fr.eu
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username:
+github_username: 
 
 # Build settings
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
-logo: "Doctorants TSE (57).jpg"
+logo: "photo.png"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
