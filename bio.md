@@ -10,4 +10,4 @@ While I have been specializing in Economics, my interests expand to other social
 In the master's internship I worked as research assistant in a project of Criminology, at the Extra-Legal Governance Institute, and my RA work with Professor Daniel Chen introduced me to the Legal Studies.
 
 
-# You can download my CV here
+
