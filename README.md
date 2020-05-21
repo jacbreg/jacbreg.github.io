@@ -4,7 +4,7 @@ title: Homepage
 permalink: /home/
 ---
 
-## [Home](https://jacbreg.github.io/home)  -  [Research](https://jacbreg.github.io/research)
+## [Home](./README.html)  -  [Research](./research.html)
 
 # Welcome to my website!
 
