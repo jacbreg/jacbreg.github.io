@@ -2,7 +2,7 @@
 
 # Work in progress
 
-**Delegation as Incentive: Evidence from an Online Community** (JMP)
+**Delegation as Incentive: Evidence from an Online Community** (JMP)  
 Experimental evidence shows that indivuals value control and power per se, but little evidence identifies this type of non-monetary utility in real data. In this paper I show that the behavior of internet users contributing on a voluntuary basis is affected by the degree of control they have over possible actions. After developing a dynamic discrete choice model of contribution in a *question and answer* website, I estimate the marginal utility from control. I then simulate counterfactual patterns of contributions under different degrees of delegation of control, to quantify the trade offs in terms of plarform success of different incentive structures.
 
 **Communication Costs, Incentives and Effort Decision**  
