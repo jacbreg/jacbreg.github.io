@@ -8,4 +8,4 @@ I work at the intersection of personnel economics and the digital economy.
 
 I study incentive structures and information transmission both online and offline.
 
-You can download my CV [here](./cv.pdf)
+You can download my CV [here](./CV_websiteTSE.pdf)
