@@ -2,7 +2,7 @@
 
 # Work in progress
 
-**Delegation as Incentive: Evidence from an Online Community** (JMP)  
+**Authority Online Communities** (JMP)  
 Experimental evidence shows that individuals value control and authority, but few works have confirmed this results out of the lab. In this paper I identify and estimate the marginal utility of control over actions within online communities, exploiting a dynamic discrete choice model. I find that users value the allocation of control, but differently across different types of participants. In addition, all users are affected in their participation, as control induces long run positive effects on participation. As users in online communities are not remunerated, the understanding of non monetary drivers of contributions allow companies to maximize the success and profitability of online platforms. With this aim in mind, I then simulate counterfactual production histories under different systems rules and incentive structures. This allows me to investigate the trade offs digital companies face when allocating control rights.
 
 **Communication Costs, Incentives and Effort Decision**  
