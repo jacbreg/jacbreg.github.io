@@ -9,4 +9,6 @@ I work at the intersection of personnel economics, the economics of digitization
 
 I study incentive structures and information transmission both online and offline.
 
-You can download my CV [here](./CV.pdf)
+You can download my CV [here](./CV.pdf) 
+
+*I am on the job market 2020-2021*
