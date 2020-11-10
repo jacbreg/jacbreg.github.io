@@ -2,8 +2,7 @@
 
 # Research
 
-**Authority and Delegation in Online Communities** (JMP)  
-(*You can download a short summary [here](./result-report-postertechconf2020.pdf)*)  
+**Authority and Delegation in Online Communities** ([JMP](./JMP.pdf))  
 Many online platforms rely on user-generated content and need to incentivize free effort. In this paper, I investigate if users provide more and better quality contributions when endowed with more autonomy over actions. Using a dynamic discrete choice model, I show that control rights have positive marginal value that is heterogeneous across different types of users, where types are ex-ante identifiable by the platform. I simulate counterfactuals with different delegation designs. Results show that the platform would lose an important share of production and quality of content in absence of delegation, specifically due to the responses of certain groups of users.
 
 **Communication Costs, Incentives and Effort Decision**  
