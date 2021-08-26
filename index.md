@@ -9,4 +9,4 @@ I work at the intersection of personnel economics, the economics of digitization
 
 I study empirically incentive structures and information transmission both online and offline.
 
-You can download my [CV here](./CV.pdf) and my [Job Market Paper here](./JMP.pdf) 
+You can download my [CV here](./CV082021.pdf) and my [Job Market Paper here](./JMP.pdf) 
