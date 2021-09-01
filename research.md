@@ -1,4 +1,4 @@
-# [Home](./index.html)  -  [Research](./research.html)<!-- - [Bio](./bio.html)-->
+# [Home](./index.html)  -  [Research](./research.html)  -  [CV](./CVlatest.pdf)<!-- - [Bio](./bio.html)-->
 
 # Research
 
