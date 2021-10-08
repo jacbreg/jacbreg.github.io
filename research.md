@@ -13,4 +13,4 @@ Organizational design is often meant to reduce inefficiencies in information tra
 
 **Market power and conservative bias in professional advice** *with Astrid Hopfensitz (TSE) and Elena Panova (TSE)*  
 A sizable literature on reputational cheap-talk suggests that professional advisors may confirm the common priors regardless of their true opinion, so as to appear "smart" and thereby increase the future demand for advice. We run an experiment to investigate whether- and to which extent confirming the common priors helps increasing demand for advice and whether- and how the answer depends on adviser market power.
-*[The implementation of the experiment has been postponed due to the health crisis]*
+
