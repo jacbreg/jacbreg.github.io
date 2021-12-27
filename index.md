@@ -4,7 +4,7 @@ Welcome to my website!
 
 I am an Assistant Professor (Lecturer) at the [University of Liverpool, Management School](https://www.liverpool.ac.uk/management/), Department of Economics.  
   
-Previously I was a PhD candidate at the [Toulouse School of Economics](https://www.tse-fr.eu/).
+I received my PhD from the [Toulouse School of Economics](https://www.tse-fr.eu/).
 
 My field of research is Organizational Economics.  
 I work at the intersection of personnel economics, the economics of digitization, and behavioral economics.
