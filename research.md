@@ -9,7 +9,7 @@ Many online platforms rely on user-generated content and need to incentivize fre
 </details>
 <br/>
 
-**[Communication Effort and the Cost of Language: Evidence from Stack Overflow](./Communication_effort_and_the_cost_of_language_Bregolin,pdf)**
+**[Communication Effort and the Cost of Language: Evidence from Stack Overflow](./Communication_effort_and_the_cost_of_language_Bregolin.pdf)**
 <details>
   <summary>Read abstract</summary>
 The transmission of information is crucial for productivity and growth, but language differences may limit its effectiveness. In this paper, I empirically investigate how much communication effort is affected by the exogenous cost of language, and investigate the trade-off faced by knowledge platforms in implementing their website in multiple languages. I exploit the introduction of websites for languages different from English on a question-and-answering platform and compare the behavior of non-English speaking users before and after the introduction. Results show that the quality of communication improves by more than 24% when writers use their first language, rather than English, and answers are 7% more likely to solve the questioner's problem, a 20% increase from baseline. In addition, the size of the effect is complementary to incentives and the questioner's effort. With the introduction of other languages, the community size increases, but the quality of the contribution of the new joiners is lower. Finally, information is more dispersed. These results show a non-trivial trade-off between one and multiple languages for knowledge platforms.
