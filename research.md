@@ -32,7 +32,7 @@ Organizational design is often meant to reduce inefficiencies in information tra
 </details>
 <br/>
 
-**Market power and conservative bias in professional advice** *with Astrid Hopfensitz (TSE) and Elena Panova (TSE)* 
+**Market power and conservative bias in professional advice** *with Astrid Hopfensitz (EMLyon) and Elena Panova (TSE)* 
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
 
