@@ -13,7 +13,7 @@ Many online platforms rely on user-generated content and need to incentivize fre
 <br/>
 
 **[Communication Effort and the Cost of Language: Evidence from Stack Overflow](./Communication_effort_and_the_cost_of_language_Bregolin.pdf)**
-[Poster presented at MSI2022](./Poster_JacopoBregolin.pdf)
+  [Poster presented at MSI2022](./Poster_JacopoBregolin.pdf)
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
  
