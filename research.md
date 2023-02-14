@@ -2,7 +2,7 @@
 
 # Research
 
-**[Authority and Delegation in Online Communities](./JMP.pdf)**  
+**[Authority and Delegation in Online Communities](./AuthorityOnlineCommunities_Bregolin.pdf)**  
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
   
