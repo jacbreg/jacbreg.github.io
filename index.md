@@ -2,7 +2,7 @@
 
 Welcome to my website!
 
-I am an Assistant Professor (Lecturer) at the [University of Liverpool, Management School](https://www.liverpool.ac.uk/management/), Department of Economics.  
+I am an Assistant Professor (Lecturer) at the [University of Liverpool, Management School, Department of Economics](https://www.liverpool.ac.uk/management/about/people/economics/).  
   
 I received my PhD from the [Toulouse School of Economics](https://www.tse-fr.eu/).
 
