@@ -1,4 +1,4 @@
-# [Home](./index.html)  -  [Research](./research.html)  -  [CV](./CV_Jan24.pdf)<!-- - [Bio](./bio.html)-->
+# [Home](./index.html)  -  [Research](./research.html)  -  [CV](./CVlatest.pdf)<!-- - [Bio](./bio.html)-->
 
 # Research
 **Communication Effort and the Cost of Language: Evidence from Stack Overflow** *R&R at Management Science*
