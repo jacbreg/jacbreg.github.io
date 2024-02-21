@@ -1,6 +1,16 @@
 # [Home](./index.html)  -  [Research](./research.html)  -  [CV](./CVlatest.pdf)<!-- - [Bio](./bio.html)-->
 
 # Research
+**Communication Effort and the Cost of Language: Evidence from Stack Overflow** <em>R&R at Management Science<em>  
+[Poster presented at MSI2022](./Poster_JacopoBregolin.pdf)
+<details>
+  <summary style="font-size:14px"><b>Read abstract</b></summary>
+ 
+<p style="font-size:14px"> 
+The transmission of information is crucial for productivity and growth. However, language differences may limit its effectiveness. This is particularly relevant for knowledge platforms that aim to be global, given the cultural diversity of the pool of users. In this paper, I empirically investigate how the exogenous cost of language affects communication quality and the trade-offs faced by knowledge platforms in implementing their website in multiple languages. I exploit the staggered introduction of websites for languages other than English on a question-and-answer platform to demonstrate two main facts. First, non-native English speakers who contribute in English increase their answers' quality once able to use their native language, and their answers are more likely to solve the questioner's problem. The native-language answers drive the effect, which is larger when the question quality is higher and the incentives are stronger. Second, users who participate in their native language but not in English contribute lower-quality answers compared to those who contribute in English. This suggests that lower language barriers allow users with less expertise in the subject to participate. These results show that the platform should adopt multiple languages to maximise the quality of the information collected, although doing so may also result in an inflow of low-quality content from new users.
+</p>
+</details>
+<br/>
 
 **[Authority and Delegation in Online Communities](./AuthorityOnlineCommunities_Bregolin.pdf)**  
 <details>
@@ -8,17 +18,6 @@
   
 <p style="font-size:14px">  
 Many online platforms rely on user-generated content and need to incentivize free effort. In this paper, I investigate if users provide more and better quality contributions when endowed with more autonomy over actions. Using a dynamic discrete choice model, I show that control rights have positive marginal value that is heterogeneous across different types of users, where types are ex-ante identifiable by the platform. I simulate counterfactuals with different delegation designs. Results show that the platform would lose an important share of production and quality of content in absence of delegation, specifically due to the responses of certain groups of users.
-</p>
-</details>
-<br/>
-
-**Communication Effort and the Cost of Language: Evidence from Stack Overflow** \[New version coming soon\]  
-[Poster presented at MSI2022](./Poster_JacopoBregolin.pdf)
-<details>
-  <summary style="font-size:14px"><b>Read abstract</b></summary>
- 
-<p style="font-size:14px"> 
-The transmission of information is crucial for productivity and growth. However, language differences may limit its effectiveness. This is particularly relevant for knowledge platforms that aim to be global, given the cultural diversity of the pool of users. In this paper, I empirically investigate how the exogenous cost of language affects communication quality and the trade-offs faced by knowledge platforms in implementing their website in multiple languages. I exploit the staggered introduction of websites for languages other than English on a question-and-answer platform to demonstrate two main facts. First, non-native English speakers who contribute in English increase their answers' quality once able to use their native language, and their answers are more likely to solve the questioner's problem. The native-language answers drive the effect, which is larger when the question quality is higher and the incentives are stronger. Second, users who participate in their native language but not in English contribute lower-quality answers compared to those who contribute in English. This suggests that lower language barriers allow users with less expertise in the subject to participate. These results show that the platform should adopt multiple languages to maximise the quality of the information collected, although doing so may also result in an inflow of low-quality content from new users.
 </p>
 </details>
 <br/>
