@@ -1,9 +1,8 @@
 # [Home](./index.html)  -  [Research](./research.html)  -  [CV](./CVlatest.pdf)<!-- - [Bio](./bio.html)-->
 
 # Research
-**Communication Effort and the Cost of Language: Evidence from Stack Overflow** *R&R at Management Science*
+**[Communication Quality and the Cost of Language: Evidence from Stack Overflow](./CommunicationQualityCostLanguage_Bregolin.pdf)** *R&R at Management Science*
 
-[Poster presented at MSI2022](./Poster_JacopoBregolin.pdf)
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
  
