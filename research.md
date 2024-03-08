@@ -1,7 +1,7 @@
 # [Home](./index.html)  -  [Research](./research.html)  -  [CV](./CVlatest.pdf)<!-- - [Bio](./bio.html)-->
 
 # Research
-**[Communication Quality and the Cost of Language: Evidence from Stack Overflow](./CommunicationQualityCostLanguage_Bregolin.pdf)** *R&R at Management Science*
+**[Communication Quality and the Cost of Language: Evidence from Stack Overflow](./CommunicationQualityCostLanguage_Bregolin.pdf)** *Accepted at Management Science*
 
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
