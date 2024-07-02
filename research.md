@@ -14,12 +14,12 @@ The transmission of information is crucial for productivity and growth. However,
 </details>
 <br/>
 
-**[Authority and Delegation in Online Communities](./AuthorityOnlineCommunities_Bregolin.pdf)**  
+**[Delegation as Incentive for Public Good Provision: Evidence from an Online Community](./AuthorityOnlineCommunities.pdf)**[NEW VERSION]  
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
   
 <p style="font-size:14px">  
-Many online platforms rely on user-generated content and need to incentivize free effort. In this paper, I investigate if users provide more and better quality contributions when endowed with more autonomy over actions. Using a dynamic discrete choice model, I show that control rights have positive marginal value that is heterogeneous across different types of users, where types are ex-ante identifiable by the platform. I simulate counterfactuals with different delegation designs. Results show that the platform would lose an important share of production and quality of content in absence of delegation, specifically due to the responses of certain groups of users.
+In many organisations, employees' learning and productivity rely on knowledge platforms' user-generated content, which has become a standard daily source of information for various tasks. As users contribute on a voluntary basis, platforms need to incentivise free effort. With data from Stack Exchange, I investigate whether users provide more and better quality contributions when endowed with more control over actions. Using a dynamic discrete choice model, I show that autonomy has positive marginal value that is heterogeneous across different types of users. I simulate counterfactuals with different designs. The results show that the platform would lose an important share of production and quality of content in the absence of delegation. When delegation is based on performance, the platform faces a trade-off, which depends on the composition of the community, and the tasks that the platform wants to incentivise.
 </p>
 </details>
 <br/>
