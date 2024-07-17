@@ -14,7 +14,7 @@ The transmission of information is crucial for productivity and growth. However,
 </details>
 <br/>
 
-**[Delegation as Incentive for Public Good Provision: Evidence from an Online Community](./AuthorityOnlineCommunities.pdf)** [NEW VERSION]  
+**[Delegation as Incentive for Public Good Provision: Evidence from an Online Community](./AuthorityOnlineCommunities.pdf)** [NEW VERSION] _submitted_ 
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
   
