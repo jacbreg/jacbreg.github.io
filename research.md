@@ -23,12 +23,12 @@ In many organisations, employees' learning and productivity rely on knowledge pl
 </details>
 <br/>
 
-**Information Transmission and Organizational Form: Evidence from the Enron Corporation**
+**Information Transmission and Organizational Form: Evidence from the Enron Corporation** [NEW DRAFT COMING SOON]
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
 
 <p style="font-size:14px"> 
-Organizational design is often meant to reduce inefficiencies in information transmissions within the organization. Building on the theoretical predictions of Crémer, Garicano, and Prat (2007), I exploit data from the Enron scandal to study how employees' language and communication depend on the hierarchy structure. I match a large database of emails from employees of the Enron corporation with data recovering the position in the company, obtaining a panel of 1557 employees. I find that workers in higher positions of the hierarchy use larger vocabularies and broader languages, but more specialized messages. Results support the hypothesis that higher-ranked employees adopt, in the communication network, a role of intermediation between specialized divisions, while lower-ranked employees may be the collectors of information.
+Firms' production efficiency heavily depends on the quality of information flows within the firm. However, weak incentives or cognitive constraints may prevent optimal communication across employees. Several theories have studied these frictions and discussed how the design of hierarchies and the strategic allocation of decision rights can reduce them (Dessein 2002; Garicano 2000; Crémer, Garicano, and Prat 2007). This paper tests theoretical predictions using email data from the Enron Corporation. I constructed a unique panel dataset for 1557 Enron employees from September 1999 to January 2002 by merging email text data with senders' roles and positions in the hierarchy extracted from email attachments. Using Large Language Models, I classify emails, identifying those that provide information, request information, or delegate tasks. In addition, I categorise them by degree of language specialisation. I find that vertical information flows are primarily due to higher-raked employees requesting information and lower-ranked employees providing it. Higher-ranked employees use less specialised languages; however, they write more specialised messages when writing to other divisions, suggesting higher language skills that allow more effective communication across divisions. Finally, I find that after the sudden resignation of CEO Jeff Skilling, higher-ranked employees reduced their requests for information from their subordinates while increasing the provision of information. This result aligns with the theory that higher-ranked employees gain a more relevant role in acquiring and providing information in moments of uncertainty and unexpected events.
 </p>
 </details>
 <br/>
