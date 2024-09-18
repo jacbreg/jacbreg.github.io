@@ -2,7 +2,7 @@
 
 # Research
 **[Communication Quality and the Cost of Language: Evidence from Stack Overflow](./CommunicationQualityCostLanguage_Bregolin.pdf)** <br>
-*Accepted at Management Science*
+*Forthcoming at Management Science* [(published version)](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.01333)
 
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
