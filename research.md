@@ -2,7 +2,7 @@
 
 # Research
 **[Communication Quality and the Cost of Language: Evidence from Stack Overflow](./CommunicationQualityCostLanguage_Bregolin.pdf)** <br>
-*Forthcoming at Management Science* [(published version)](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.01333)
+*Forthcoming, Management Science* [(published version)](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.01333)
 
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
@@ -13,7 +13,8 @@ The transmission of information is crucial for productivity and growth. However,
 </details>
 <br/>
 
-**[Delegation as Incentive for Public Good Provision: Evidence from an Online Community](./AuthorityOnlineCommunities.pdf)** [NEW VERSION] _submitted_ 
+**[Delegation as Incentive for Public Good Provision: Evidence from an Online Community](./AuthorityOnlineCommunities.pdf)** <br>
+*R&R Quantitative Economics*
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
   
