@@ -24,7 +24,7 @@ In many organisations, employees' learning and productivity rely on knowledge pl
 </details>
 <br/>
 
-**[Vertical Information Transmission in Organizations: Evidence from the Enron Corporation](./EnronLanguage_Bregolin.pdf)**** [NEW VERSION]
+**[Vertical Information Transmission in Organizations: Evidence from the Enron Corporation](./EnronLanguage_Bregolin.pdf)** [NEW VERSION]
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
 
