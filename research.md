@@ -1,8 +1,8 @@
 # [Home](./index.html)  -  [Research](./research.html)  -  [CV](./CVlatest.pdf)<!-- - [Bio](./bio.html)-->
 
 # Research
-**[Communication Quality and the Cost of Language: Evidence from Stack Overflow](./CommunicationQualityCostLanguage_Bregolin.pdf)** <br>
-*Forthcoming, Management Science* [(published version)](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.01333)
+**[Communication Quality and the Cost of Language: Evidence from Stack Overflow](./CommunicationQualityCostLanguage_Bregolin.pdf)**, 2024 <br>
+*Management Science* [(published version)](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.01333)
 
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
