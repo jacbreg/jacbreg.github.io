@@ -34,11 +34,11 @@ Firms' production depends on effective information flows across the organisation
 </details>
 <br/>
 
-**Market power and conservative bias in professional advice** *with Astrid Hopfensitz (EMLyon) and Elena Panova (TSE)* [WORKING PAPER COMING SOON]
+**Using Advice Without Revising Beliefs About Its Quality: A Laboratory Experiment of Demand for Advice.** *with Astrid Hopfensitz (EMLyon) and Elena Panova (TSE)* [WORKING PAPER COMING SOON]
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
 
 <p style="font-size:14px"> 
-A sizable literature on reputational cheap-talk suggests that professional advisors may confirm the common priors regardless of their true opinion, so as to appear "smart" and thereby increase the future demand for advice. We run an experiment to investigate whether- and to which extent confirming the common priors helps increasing demand for advice and whether- and how the answer depends on adviser market power.
+We experimentally test how the content of advice - namely, its alignment with common priors - influences beliefs about its quality and future demand for it. We reject the theoretical hypothesis that demand for advice can be increased by giving advice in alignment with common priors. Indeed, our results show that participants in our experiment do not view such advice as a signal of the advisor's quality. Instead, any advice influences participants' guesses in an incentivized task. Hence, participants use advice, while largely foregoing inferences on the quality of advice itself.
 </p>
 </details>
