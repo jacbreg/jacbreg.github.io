@@ -13,7 +13,7 @@ The transmission of information is crucial for productivity and growth. However,
 </details>
 <br/>
 
-**[Delegation as Incentive for Public Good Provision: Evidence from an Online Community](./AuthorityOnlineCommunities.pdf)** <br>
+**[Delegation as Incentive for Public Good Provision: Evidence from an Online Community](./AuthorityOnlineCommunities.pdf)** <br> [NEW VERSION COMING SOON]
 *R&R Quantitative Economics*
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
@@ -24,7 +24,7 @@ In many organisations, employees' learning and productivity rely on knowledge pl
 </details>
 <br/>
 
-**[Vertical Information Transmission in Organizations: Evidence from the Enron Corporation](./EnronLanguage_Bregolin.pdf)** [NEW VERSION]
+**[Vertical Information Transmission in Organizations: Evidence from the Enron Corporation](./EnronLanguage_Bregolin.pdf)** [NEW VERSION COMING SOON]
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
 
@@ -34,7 +34,7 @@ Firms' production depends on effective information flows across the organisation
 </details>
 <br/>
 
-**Market power and conservative bias in professional advice** *with Astrid Hopfensitz (EMLyon) and Elena Panova (TSE)* 
+**Market power and conservative bias in professional advice** *with Astrid Hopfensitz (EMLyon) and Elena Panova (TSE)* [WORKING PAPER COMING SOON]
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
 
