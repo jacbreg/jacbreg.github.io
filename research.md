@@ -34,11 +34,12 @@ Firms' production depends on effective information flows across the organisation
 </details>
 <br/>
 
-**Using Advice Without Revising Beliefs About Its Quality: A Laboratory Experiment of Demand for Advice.** *with Astrid Hopfensitz (EMLyon) and Elena Panova (TSE)* [WORKING PAPER COMING SOON]
+**[Using Advice Without Considering Its Quality: A Laboratory Experiment of Demand for Advice](./DemandAdvice_BregolinHopfensitzPanova.pdf)** *with Astrid Hopfensitz (EMLyon) and Elena Panova (TSE)* [NEW]
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
 
 <p style="font-size:14px"> 
-We experimentally test how the content of advice - namely, its alignment with common priors - influences beliefs about its quality and future demand for it. We reject the theoretical hypothesis that demand for advice can be increased by giving advice in alignment with common priors. Indeed, our results show that participants in our experiment do not view such advice as a signal of the advisor's quality. Instead, any advice influences participants' guesses in an incentivized task. Hence, participants use advice, while largely foregoing inferences on the quality of advice itself.
+We experimentally test how the content of advice, namely, its alignment with common priors, influences beliefs about its quality and future demand for it. We reject the theoretical hypothesis that demand for advice can be
+increased by giving advice in alignment with common priors. We find, furthermore, that such alignment has hardly any impact on the participants' beliefs about quality of advice. Nevertheless, advice influences participants' guesses in an incentivized task, regardless of their beliefs about the quality of advice itself.
 </p>
 </details>
