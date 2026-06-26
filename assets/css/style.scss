@@ -18,3 +18,9 @@ div {
 header {
   width: 220px; /* Change this value to something smaller like 200px */
 }
+
+section {
+  margin-left: 220px;  /* Match your header width */
+  max-width: none;     /* Remove width restrictions */
+  padding: 20px 30px;  /* Adjust padding as needed */
+}
