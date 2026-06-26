@@ -15,5 +15,10 @@ div {
 }
 
 header {
-  width: 200px; /* Change this value to something smaller like 200px */
+  width: 220px; /* Change this value to something smaller like 200px */
+}
+
+section {
+  display: block;
+  margin-left: 220px;  /* This needs to match your NEW sidebar width */
 }
