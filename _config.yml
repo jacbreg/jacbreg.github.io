@@ -27,7 +27,7 @@ twitter_username:
 github_username: 
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: pages-themes/primer@v0.6.0 
 plugins:
   - jekyll-feed
 logo: "Jacopo Bregolin (11)cropped.jpg"
