@@ -34,8 +34,8 @@ Firms' production depends on effective information flows across the organisation
 </details>
 <br/>
 
-**[Using Advice Without Considering Its Quality: A Laboratory Experiment of Demand for Advice](./DemandAdvice_BregolinHopfensitzPanova.pdf)** [NEW]  
-*with Astrid Hopfensitz (EMLyon) and Elena Panova (TSE)* 
+**[Using Advice Without Considering Its Quality: A Laboratory Experiment of Demand for Advice](./DemandAdvice_BregolinHopfensitzPanova.pdf)** 
+*with Astrid Hopfensitz (EMLyon) and Elena Panova (TSE, ISFA Lyon 1)* 
 <details>
   <summary style="font-size:14px"><b>Read abstract</b></summary>
 
