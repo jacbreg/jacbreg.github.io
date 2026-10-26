@@ -2,7 +2,7 @@
 
 Welcome to my website!
 
-I am an Assistant Professor at the [Institut Mines-Télécom Business School](https://www.imt-bs.eu/en/) (IMT-BS).<!--, [Department of Economics](https://www.liverpool.ac.uk/economics/).-->
+I am an Assistant Professor at the [Institut Mines-Télécom Business School](https://www.imt-bs.eu/en/) (IMT-BS) and affiliated to the research centre [LITEM](https://www.litem.univ-evry.fr/accueil.html), Univ. Evry, Paris Saclay.<!--, [Department of Economics](https://www.liverpool.ac.uk/economics/).-->
   
 I received my PhD from the [Toulouse School of Economics](https://www.tse-fr.eu/).
 
